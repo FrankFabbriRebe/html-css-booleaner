@@ -3,3 +3,20 @@
     margin: 0;
     padding: 0;
 }
+
+/* stile header */
+header  {
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    background-color: rgb(105, 170, 230);
+    height: 100px;
+
+}
+
+.logo   {
+    height: 50px;
+    margin-top: 30px;
+}
+
+
+
