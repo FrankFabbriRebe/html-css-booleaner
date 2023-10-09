@@ -1,16 +1,10 @@
-/* reset */
-*   {
-    margin: 0;
-    padding: 0;
-}
 
 /* stile header */
 header  {
+    width: 100%;
     background-image: url(img/pattern.png);
     background-size: contain;
-    background-color: rgb(105, 170, 230);
-    height: 100px;
-
+    background-color: rgb(105, 170, 230); 
 }
 
 .logo   {
@@ -48,7 +42,6 @@ p   {
 /* stile ul */
 ul  {
     margin-top: 20px;
-    margin-left: 50px;
 }
 
 .terzo_titolo {
