@@ -47,4 +47,17 @@ p   {
 /* stile ul */
 ul  {
     margin-top: 20px;
+    margin-left: 50px;
+}
+
+.terzo_titolo {
+    width: 50%;
+}
+
+.titoli   {
+    background-color: rgb(16, 139, 239);
+}
+
+.colorata   {
+    background-color: aqua;
 }
