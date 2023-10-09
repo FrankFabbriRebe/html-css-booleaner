@@ -44,6 +44,12 @@ ul  {
     margin-top: 20px;
 }
 
+/* stile tabella */
+thead   {
+    text-align: left;
+    color: white;
+}
+
 .terzo_titolo {
     width: 50%;
 }
