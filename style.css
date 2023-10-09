@@ -18,5 +18,13 @@ header  {
     margin-top: 30px;
 }
 
+/* stile sezione titolo */
+#autore {
+    color: lightblue;
+}
+
+.autore, .data{
+    color: grey;
+}
 
 
