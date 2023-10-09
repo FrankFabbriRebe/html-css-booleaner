@@ -1,0 +1,94 @@
+.principale {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+/* stile header */
+header  {
+    width: 100%;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    background-color: rgb(105, 170, 230); 
+}
+
+.logo   {
+    height: 50px;
+    margin-top: 30px;
+}
+
+/* stile sezione titolo */
+#autore {
+    color: lightblue;
+}
+
+.autore, .data{
+    color: grey;
+}
+
+.tim-img    {
+    margin-top: 20px;
+}
+
+.title h1   {
+    margin-top: 20px;
+}
+
+/* stile primo paragrafo */
+p   {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.underline  {
+    background-color: yellow;
+}
+
+/* stile ul */
+ul  {
+    margin-top: 20px;
+}
+
+/* stile tabella */
+thead   {
+    text-align: left;
+    color: white;
+}
+
+.terzo_titolo {
+    width: 50%;
+}
+
+.titoli   {
+    background-color: rgb(16, 139, 239);
+}
+
+.colorata   {
+    background-color: aqua;
+}
+
+/* stile footer */
+footer span {
+    color: gray;
+}
+
+h3  {
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.footer_img1    {
+    background-image: url(img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+}
+
+.footer_img2    {
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+}
