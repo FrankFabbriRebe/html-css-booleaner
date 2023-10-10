@@ -45,6 +45,9 @@ ul  {
 }
 
 /* stile tabella */
+table   {
+    border-spacing: 0px;
+}
 thead   {
     text-align: left;
     color: white;
